@@ -2,28 +2,26 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Manoj D | FastAPI Full Stack Developer & AI Engineer',
-  description: 'Building AI-powered, production-grade full stack systems with FastAPI, Next.js, and LLMs.',
-  metadataBase: new URL('https://example.com'),
+  title: 'Manoj D | Java Full Stack Developer',
+  description: 'Building production-grade full stack systems with Java, SQL, Spring Boot, React.js, and Next.js.',
   openGraph: {
-    title: 'Manoj D | FastAPI Full Stack Developer & AI Engineer',
-    description: 'Building AI-powered, production-grade full stack systems with FastAPI, Next.js, and LLMs.',
+    title: 'Manoj D | Java Full Stack Developer',
+    description: 'Building production-grade full stack systems with Java, SQL, Spring Boot, React.js, and Next.js.',
     type: 'website',
-    url: 'https://example.com',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Manoj D | FastAPI Full Stack Developer & AI Engineer',
-    description: 'Building AI-powered, production-grade full stack systems with FastAPI, Next.js, and LLMs.',
+    title: 'Manoj D | Java Full Stack Developer',
+    description: 'Building production-grade full stack systems with Java, SQL, Spring Boot, React.js, and Next.js.',
   },
   robots: {
     index: true,
     follow: true,
   },
   keywords: [
-    'FastAPI Full Stack Developer',
-    'AI Engineer',
-    'Python Developer',
+    'Java Full Stack Developer',
+    'Spring Boot Developer',
+    'SQL Developer',
     'Next.js Developer',
     'React Developer',
   ],

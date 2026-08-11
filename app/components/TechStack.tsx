@@ -1,6 +1,6 @@
 const stackGroups = [
-  { title: 'Languages', tags: ['Python', 'TypeScript'] },
-  { title: 'Backend', tags: ['FastAPI', 'JWT/OAuth2'] },
+  { title: 'Languages', tags: ['Java', 'SQL', 'TypeScript', 'JavaScript'] },
+  { title: 'Backend', tags: ['Spring Boot', 'REST APIs', 'Microservices', 'JWT/OAuth2'] },
   { title: 'Frontend', tags: ['React.js', 'Next.js', 'Redux', 'Zustand', 'Tailwind', 'shadcn/ui'] },
   { title: 'Database', tags: ['SQL Server', 'PostgreSQL'] },
   { title: 'Cloud & DevOps', tags: ['Azure', 'AWS', 'GCP', 'Docker', 'CI/CD'] },

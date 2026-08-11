@@ -1,12 +1,12 @@
 const experienceItems = [
   {
     company: 'Aspire Systems',
-    role: 'Senior FastAPI Full Stack Developer',
+    role: 'Senior Java Full Stack Developer',
     period: 'Oct 2023 – Present',
-    summary: 'Belk eCommerce platform, American Equity insurance SaaS, Tanya AI Shopping Assistant.',
+    summary: 'Belk eCommerce platform, American Equity insurance SaaS, and Tanya shopping assistant.',
     bullets: [
-      'Implemented FastAPI clean architecture with JWT/RBAC and secure access flows.',
-      'Integrated Gemini LLM for conversational shopping assistance and recommendation layers.',
+      'Implemented clean backend architecture with JWT/RBAC and secure access flows.',
+      'Built REST API workflows and SQL-backed business features for enterprise applications.',
       'Built Next.js 15/16 App Router experiences, including Micro Frontend/Module Federation patterns.',
     ],
   },

@@ -8,9 +8,8 @@ export default function Education() {
         </div>
         <div className="mt-8 grid gap-4 rounded-3xl border border-border/80 bg-surface/90 p-6 text-sm leading-7 text-text/90">
           <div>
-            <p className="text-sm font-semibold">University College of Engineering, Ariyalur</p>
-            <p className="mt-2 text-muted">B.E. Computer Science and Engineering</p>
-            <p className="mt-2 text-muted">2015 – 2019</p>
+            <p className="text-sm font-semibold">Bachelor of Engineering in Computer Science and Engineering</p>
+            <p className="mt-2 text-muted">Anna University</p>
           </div>
         </div>
       </div>

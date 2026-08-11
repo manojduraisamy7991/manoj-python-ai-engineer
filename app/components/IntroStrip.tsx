@@ -3,10 +3,10 @@
 import { motion } from 'framer-motion';
 
 const contacts = [
-  { label: 'Email', value: 'manoj@example.com', href: 'mailto:manoj@example.com' },
-  { label: 'LinkedIn', value: 'linkedin.com/in/manoj', href: 'https://linkedin.com/in/manoj' },
-  { label: 'GitHub', value: 'github.com/manoj', href: 'https://github.com/manoj' },
-  { label: 'Phone', value: '+91 99999 99999', href: 'tel:+919999999999' },
+  { label: 'Email', value: 'manojdcareer@gmail.com', href: 'mailto:manojdcareer@gmail.com' },
+  { label: 'LinkedIn', value: 'linkedin.com/in/manoj-frontend-developer', href: 'https://linkedin.com/in/manoj-frontend-developer' },
+  { label: 'GitHub', value: 'github.com/manojduraisamy7991', href: 'https://github.com/manojduraisamy7991' },
+  { label: 'Phone', value: '+91 90808 88076', href: 'tel:+919080888076' },
 ];
 
 export default function IntroStrip() {
@@ -23,10 +23,10 @@ export default function IntroStrip() {
           <div className="space-y-3">
             <p className="text-xs font-mono uppercase tracking-[0.35em] text-muted">Manoj D · Bangalore, India</p>
             <h1 className="text-3xl font-semibold leading-tight sm:text-4xl">
-              FastAPI Full Stack Developer | AI Engineer | Python + React/Next.js
+              Java Full Stack Developer | Spring Boot | React.js/Next.js
             </h1>
             <p className="max-w-2xl text-sm leading-7 text-muted">
-              Building AI-powered, production-grade full stack systems with FastAPI, Next.js, and LLMs.
+              Building production-grade full stack systems with Java, SQL, Spring Boot, React.js, and Next.js.
             </p>
           </div>
 
