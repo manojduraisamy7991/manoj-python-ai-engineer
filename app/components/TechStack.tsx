@@ -1,9 +1,9 @@
 const stackGroups = [
-  { title: 'Languages', tags: ['Java', 'SQL', 'TypeScript', 'JavaScript'] },
-  { title: 'Backend', tags: ['Spring Boot', 'REST APIs', 'Microservices', 'JWT/OAuth2'] },
-  { title: 'Frontend', tags: ['React.js', 'Next.js', 'Redux', 'Zustand', 'Tailwind', 'shadcn/ui'] },
-  { title: 'Database', tags: ['SQL Server', 'PostgreSQL'] },
-  { title: 'Cloud & DevOps', tags: ['Azure', 'AWS', 'GCP', 'Docker', 'CI/CD'] },
+  { title: 'AI & Machine Learning', tags: ['Python', 'AI/ML', 'Generative AI', 'LLMs', 'Prompt Engineering'] },
+  { title: 'Python Backend', tags: ['Python APIs', 'REST APIs', 'Backend Development', 'Docker'] },
+  { title: 'Frontend', tags: ['React.js', 'Next.js', 'TypeScript', 'Tailwind CSS'] },
+  { title: 'Data', tags: ['SQL', 'PostgreSQL', 'Data Processing'] },
+  { title: 'Cloud & DevOps', tags: ['Azure', 'AWS', 'Git', 'CI/CD'] },
 ];
 
 export default function TechStack() {

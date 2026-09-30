@@ -1,22 +1,22 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Manoj D - Java Full Stack Developer",
-  description: "Manoj D. Java Full Stack Developer skilled in Java, SQL, Spring Boot, React.js, and Next.js.",
+  title: "Manoj D - AI Engineer & Python Full Stack Developer",
+  description: "AI Engineer and Python Full Stack Developer building intelligent applications and modern web products.",
 };
 
 const stack = [
   {
-    group: "Backend",
-    items: ["Java, Spring Boot", "REST APIs, Microservices", "JWT / OAuth2", "Docker"],
+    group: "AI & Machine Learning",
+    items: ["Python for AI/ML", "Generative AI & LLMs", "Prompt engineering", "AI API integration"],
   },
   {
-    group: "Frontend",
-    items: ["React.js, Next.js", "TypeScript, JavaScript", "Tailwind CSS, shadcn/ui", "Redux, Zustand"],
+    group: "Python Backend & Web",
+    items: ["Python", "REST APIs", "Full stack development", "Docker, Git, CI/CD"],
   },
   {
-    group: "Database & Tools",
-    items: ["SQL Server, PostgreSQL", "SQL query optimization", "Git, CI/CD pipelines", "Azure, AWS"],
+    group: "Frontend, Data & Cloud",
+    items: ["React.js, Next.js", "TypeScript, JavaScript", "SQL, PostgreSQL", "Azure, AWS"],
   },
 ];
 
@@ -24,26 +24,26 @@ const projects = [
   {
     name: "Tanya - Shopping Assistant",
     description:
-      "Shopping assistant platform with Java backend services for catalog and order management, SQL-backed data flows, and a React/Next.js frontend.",
-    tags: ["Java", "Spring Boot", "SQL Server", "Next.js"],
+      "AI-powered shopping assistant with Python backend services for catalog and order management, intelligent product discovery, and a React/Next.js frontend.",
+    tags: ["Python", "AI/LLMs", "PostgreSQL", "Next.js"],
   },
   {
     name: "Belk — eCommerce Platform",
     description:
-      "Clean-architecture REST APIs with service-layer patterns for a large-scale US enterprise eCommerce platform, supporting secure and scalable customer workflows.",
-    tags: ["Spring Boot", "REST APIs", "Next.js 15/16", "Azure"],
+      "Python-based clean-architecture REST APIs for a large-scale US enterprise eCommerce platform, supporting secure and scalable customer workflows.",
+    tags: ["Python", "FastAPI", "REST APIs", "Azure"],
   },
   {
     name: "Fastbokz CRM 360",
     description:
-      "Full stack CRM and appointment SaaS used by 100+ businesses with Java APIs, JWT refresh-token auth, SQL workflows, and Razorpay payments.",
-    tags: ["Java", "Spring Boot", "React.js", "SQL"],
+      "Full stack CRM and appointment SaaS used by 100+ businesses with Python APIs, JWT refresh-token auth, SQL workflows, and Razorpay payments.",
+    tags: ["Python", "FastAPI", "React.js", "SQL"],
   },
 ];
 
 const experience = [
   {
-    role: "Senior Java Full Stack Developer",
+    role: "Senior Python Full Stack Developer & AI Engineer",
     company: "Aspire Systems",
     period: "Oct 2023 — Present",
     points: [
@@ -84,7 +84,7 @@ export default function Page() {
             <div>
               <h1 className="text-2xl font-semibold">Manoj D</h1>
               <p className="mt-1 text-[#80EA6E]">
-                Java Full Stack Developer
+                AI Engineer | Python Full Stack Developer
               </p>
             </div>
             <a
@@ -96,8 +96,9 @@ export default function Page() {
             </a>
           </div>
           <p className="mt-4 text-[#CFE5D0] leading-relaxed">
-            Full stack developer building backend services with Java, Spring Boot,
-            and SQL, plus frontend apps with React.js, Next.js, and TypeScript.
+            AI Engineer and Python Full Stack Developer focused on building intelligent
+            applications, AI-powered features, Python APIs, and polished web products.
+            Experienced in full stack engineering, with a background in enterprise systems.
             Based in Bangalore, India.
           </p>
           <p className="mt-4 text-sm text-[#94B79B]">
@@ -197,7 +198,7 @@ export default function Page() {
         {/* Contact */}
         <section className="mt-16 border-t border-[#24312A] pt-8">
           <p className="text-sm text-[#CFE5D0]">
-            Open to Java full stack developer roles.{" "}
+            Open to AI Engineer and Python Full Stack Developer roles.{" "}
             <a href="mailto:manojdcareer@gmail.com" className="text-[#80EA6E] font-medium hover:underline">
               Get in touch
             </a>

@@ -23,10 +23,10 @@ export default function IntroStrip() {
           <div className="space-y-3">
             <p className="text-xs font-mono uppercase tracking-[0.35em] text-muted">Manoj D · Bangalore, India</p>
             <h1 className="text-3xl font-semibold leading-tight sm:text-4xl">
-              Java Full Stack Developer | Spring Boot | React.js/Next.js
+              AI Engineer | Python Full Stack Developer
             </h1>
             <p className="max-w-2xl text-sm leading-7 text-muted">
-              Building production-grade full stack systems with Java, SQL, Spring Boot, React.js, and Next.js.
+              Building intelligent applications with Python, AI, modern APIs, and full stack web technologies.
             </p>
           </div>
 

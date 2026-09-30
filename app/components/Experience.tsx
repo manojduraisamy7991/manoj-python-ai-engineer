@@ -1,7 +1,7 @@
 const experienceItems = [
   {
     company: 'Aspire Systems',
-    role: 'Senior Java Full Stack Developer',
+    role: 'Senior Python Full Stack Developer & AI Engineer',
     period: 'Oct 2023 – Present',
     summary: 'Belk eCommerce platform, American Equity insurance SaaS, and Tanya shopping assistant.',
     bullets: [
